@@ -7,10 +7,9 @@ Welcome to Craftbeer's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
-
+    mash
 
 Indices and tables
 ==================

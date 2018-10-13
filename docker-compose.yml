@@ -1,0 +1,10 @@
+version: '3'
+services:
+  docs-craftbeer:
+    image: pardahlman/sphinx:1.7.4
+    container_name: docs-craftbeer
+    volumes:
+      - ./docs:/docs
+    ports:
+      - 8000:8000
+

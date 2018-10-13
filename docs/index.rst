@@ -9,7 +9,7 @@ Welcome to Craftbeer's documentation!
 .. toctree::
    :maxdepth: 1
 
-    mash
+   process/mash
 
 Indices and tables
 ==================

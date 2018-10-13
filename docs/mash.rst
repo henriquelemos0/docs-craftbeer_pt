@@ -1,4 +1,4 @@
-The Mash
-========
+Mash
+====
 
 Mash the grain into hot water

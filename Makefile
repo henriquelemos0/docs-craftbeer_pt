@@ -4,8 +4,7 @@ prepare:
 	docker restart docs-craftbeer
 
 run:
-	docker-compose up
-	docker exec -it docs-craftbeer make html
+	docker-compose up -d
 
 stop:
 	docker-compose down

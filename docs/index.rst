@@ -10,6 +10,7 @@ Welcome to Craftbeer's documentation!
    :maxdepth: 1
 
    process/mash
+   process/carbonation
 
 Indices and tables
 ==================

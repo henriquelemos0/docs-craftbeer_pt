@@ -192,8 +192,3 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
-
-# Internacionalization
-# http://www.sphinx-doc.org/en/master/intl.html
-locale_dirs = ['locale/']   # path is example but recommended.
-gettext_compact = False     # optional.

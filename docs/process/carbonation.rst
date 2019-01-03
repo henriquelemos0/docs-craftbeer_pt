@@ -1,14 +1,14 @@
-Carbonation
-===========
+Carbonatação
+============
 
-There are two main ways you can go about carbonating your homebrew: **priming** sugar and **force carbonation**. ¹_
+Existem duas maneira principais para carbonatar sua cerveja artesanal: **priming** e **carbonatação foraçada**. ¹_
 
 Priming
 -------
 
-The amount of carbonation in bottle-conditioned homebrew is dependent on two things — the residual level of carbon dioxide after fermentation and the amount of carbonation obtained from the priming sugar. ²_
+A quantidade de carbonatação em cervejas artesanais armazenadas em garrafas depende de duas coisas — a quantidade restante de dioxido de carbono depois da fermentação e a quantidade de carbonatação obitida no *priming* . ²_
 
-To know how much sugar to add in you beer use a Beer Priming Calculator_. 
+Para saber quanto de açucar deve adicionar na sua cerveja use o 'Beer Priming Calculator_'.
 
 .. _¹: https://www.mrbeer.com/blog/carbonating-beer-priming-sugar/
 .. _²: https://byo.com/resource/carbonation-priming-chart/

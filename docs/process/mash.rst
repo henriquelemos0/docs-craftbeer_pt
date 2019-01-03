@@ -1,4 +1,4 @@
-Mash
-====
+Mostura
+=======
 
-Mash the grain into hot water
+Misture os grãos em agua quente.

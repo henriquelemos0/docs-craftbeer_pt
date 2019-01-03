@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Craftbeer's documentation!
-=====================================
+Bem vindo a documentação do Craftbeer!
+======================================
 
 .. toctree::
    :maxdepth: 1
@@ -12,8 +12,8 @@ Welcome to Craftbeer's documentation!
    process/mash
    process/carbonation
 
-Indices and tables
-==================
+Índices e tabelas
+=================
 
 * :ref:`genindex`
 * :ref:`modindex`

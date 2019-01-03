@@ -7,3 +7,6 @@ build:
 
 stop:
 	docker-compose down
+
+rm:
+	docker-compose rm
